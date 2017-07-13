@@ -1,13 +1,14 @@
 [{
   "repositories": [
-    "IBM-Bluemix/cloudco-insurance",
-    "IBM-Bluemix/insurance-bot",
-    "IBM-Bluemix/insurance-catalog",
-    "IBM-Bluemix/insurance-orders",
-    "IBM-Bluemix/insurance-bot-dashboard",
-    "IBM-Bluemix/insurance-bot-ios",
-    "IBM-Bluemix/insurance-bot-android",
-    "IBM-Bluemix/insurance-toolchain"
+    "Conciergedevelopers/project-desc",
+    "Conciergedevelopers/clinical-desc-bot",
+    "Conciergedevelopers/desc-catalog",
+    "Conciergedevelopers/desc-orders",
+    "Conciergedevelopers/desc-bot-dashboard",
+    "Conciergedevelopers/desc-bot-ios",
+    "Conciergedevelopers/desc-bot-android",
+    "Conciergedevelopers/desc-toolchain"
+
   ],
   "milestones": [
     {
